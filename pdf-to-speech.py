@@ -28,6 +28,3 @@ output_path = 'cheat_sheet.mp3'
 
 # Convert the PDF to speech
 pdf_to_speech(pdf_path, output_path)
-
-# Play the generated speech
-# os.system(f'open {output_path}')  # Modify this line according to your operating system's command for playing an MP3 file
